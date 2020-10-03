@@ -67,7 +67,7 @@ function CardDetails() {
                 <img style={{objectFit:"contain",height:"40px"}} src={ipo.image}/>
                 </div>
 
-                <p>{ipo.description}</p>
+                <p className="my-2">{ipo.description}</p>
             <h5 className="p-2 mt-2">IPO Details</h5>
                 <table className="table table-bordered table-striped">
                     <tbody>
