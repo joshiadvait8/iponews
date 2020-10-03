@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+*{
+  margin: 0;
+}
+h1.h2,h3,h4,h5,h6{
+  font-family: 'Secular One', sans-serif;
+}
+body{
+  background-color: #EAF0F1;
+  
+}
+.App{
+  /* font-family: 'Roboto', sans-serif; */
+}
+@media(min-width:800px){
+.bodycontent{
+  width: 50vw;
+  margin-left: 25%;
+}
+}

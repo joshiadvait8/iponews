@@ -1,0 +1,20 @@
+.namecard__price{
+    font-size: medium;
+    color: green;
+}
+.namecard__date{
+    font-size: medium;
+    font-weight: 600;
+}
+.namecard_image{
+    height: 10vh;
+    object-fit: contain;
+    position: absolute;
+    bottom: 15%;
+    width: 20vw;
+    right: 4%;
+}
+
+@media(min-width:400px){
+    .namecard{font-size: 10px;}
+}
