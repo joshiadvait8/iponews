@@ -5,7 +5,7 @@ import NameCard from './components/NameCard'
 import CardDetails from './components/CardDetails'
 import IpoList from './components/IpoList'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link,
@@ -22,7 +22,7 @@ function App() {
 
   
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
 
       <Navbar />
