@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iponews/static/css/main.053cef54.chunk.css",
-    "main.js": "/iponews/static/js/main.8e7cc22c.chunk.js",
-    "main.js.map": "/iponews/static/js/main.8e7cc22c.chunk.js.map",
+    "main.js": "/iponews/static/js/main.a7ac5d48.chunk.js",
+    "main.js.map": "/iponews/static/js/main.a7ac5d48.chunk.js.map",
     "runtime-main.js": "/iponews/static/js/runtime-main.6e7703a6.js",
     "runtime-main.js.map": "/iponews/static/js/runtime-main.6e7703a6.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/iponews/static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.490c1b7c.chunk.js": "/iponews/static/js/2.490c1b7c.chunk.js",
     "static/js/2.490c1b7c.chunk.js.map": "/iponews/static/js/2.490c1b7c.chunk.js.map",
     "index.html": "/iponews/index.html",
-    "precache-manifest.e48733d9aa435a8ce22ed4d816bf50e8.js": "/iponews/precache-manifest.e48733d9aa435a8ce22ed4d816bf50e8.js",
+    "precache-manifest.a597fd203a298d4b0ed33bf2b3e1ad08.js": "/iponews/precache-manifest.a597fd203a298d4b0ed33bf2b3e1ad08.js",
     "service-worker.js": "/iponews/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/iponews/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.053cef54.chunk.css.map": "/iponews/static/css/main.053cef54.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.490c1b7c.chunk.js",
     "static/css/main.053cef54.chunk.css",
-    "static/js/main.8e7cc22c.chunk.js"
+    "static/js/main.a7ac5d48.chunk.js"
   ]
 }
