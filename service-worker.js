@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/iponews/precache-manifest.dce0ac1bbe81224b6b0a9a842f02fac5.js"
+  "/iponews/precache-manifest.26bc057ea480584efc2280e8c3eac246.js"
 );
 
 self.addEventListener('message', (event) => {
