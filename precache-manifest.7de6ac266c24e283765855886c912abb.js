@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ddd728f045e6799348fa42f6e9bb475",
+    "revision": "5b14db0f65b64b921aea164572b8fa4a",
     "url": "/iponews/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iponews/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "fb10acfc5ef8f1a68273",
-    "url": "/iponews/static/css/main.f2b800fc.chunk.css"
+    "revision": "2f7a04e65580fc9fc912",
+    "url": "/iponews/static/css/main.053cef54.chunk.css"
   },
   {
     "revision": "f6e660157e8cf1623ae8",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iponews/static/js/2.490c1b7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb10acfc5ef8f1a68273",
+    "revision": "2f7a04e65580fc9fc912",
     "url": "/iponews/static/js/main.11575816.chunk.js"
   },
   {
