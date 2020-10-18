@@ -2,6 +2,7 @@ import React, { useEffect,useState } from 'react'
 import './NameCard.css'
 import {BrowserRouter, Redirect, withRouter} from 'react-router-dom'
 import dataipo from "../data.json"
+
 function NameCard({ name,price,date,img,k,history}) {
 
     const handleClick=()=>{
@@ -19,7 +20,7 @@ function NameCard({ name,price,date,img,k,history}) {
                     <p className="p-0 m-0 font-weight-bold namecard__price">{price}</p>
                     <p className="p-0 m-0 text-secondary namecard__date">{date}</p>
                 </div>
-                <img className="namecard_image" src={img} />
+                <img className="namecard_image" src={require('../images/'+img)} />
             </div>
         </div>
     )

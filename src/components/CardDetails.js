@@ -4,6 +4,7 @@ import {Redirect, useParams,BrowserRouter as Router,Route} from "react-router-do
 import dataipo from "../data.json"
 import PageNotFound from './PageNotFound';
 import {Pie, Doughnut} from 'react-chartjs-2';
+import Financials from './Financials';
 function CardDetails() {
     var colorArray = ['#FF6633', '#FFB399', '#FF33FF', '#FFFF99', '#00B3E6', 
 		  '#E6B333', '#3366E6', '#999966', '#99FF99', '#B34D4D',
@@ -64,7 +65,7 @@ function CardDetails() {
             <div className="container-md p-4 d-flex justify-content-center flex-column"> 
                 <div className="d-flex justify-content-between">
                 <h5 className="text-center">{ipo.name}</h5>
-                <img style={{objectFit:"contain",height:"40px"}} src={ipo.image}/>
+                <img style={{objectFit:"contain",height:"40px"}} src={require('../images/'+ipo.image)}/>
                 </div>
 
                 <p className="my-2">{ipo.description}</p>
@@ -141,6 +142,8 @@ function CardDetails() {
                 data={category}
                 />
                 </div>
+                <h5 className="p-2 mt-2"> Profit after Tax</h5>
+                <Financials info={dataipo[id].financials}/>
             </div>
     )
     
