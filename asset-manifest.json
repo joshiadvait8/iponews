@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.053cef54.chunk.css",
-    "main.js": "/static/js/main.ec83d6ab.chunk.js",
-    "main.js.map": "/static/js/main.ec83d6ab.chunk.js.map",
+    "main.js": "/static/js/main.675a1f18.chunk.js",
+    "main.js.map": "/static/js/main.675a1f18.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ea81b9ac.js",
     "runtime-main.js.map": "/static/js/runtime-main.ea81b9ac.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.9e5fa607.chunk.js": "/static/js/2.9e5fa607.chunk.js",
-    "static/js/2.9e5fa607.chunk.js.map": "/static/js/2.9e5fa607.chunk.js.map",
+    "static/js/2.5d1904c3.chunk.js": "/static/js/2.5d1904c3.chunk.js",
+    "static/js/2.5d1904c3.chunk.js.map": "/static/js/2.5d1904c3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9c96d04c5b4fe25aa4ca695fc6fb7643.js": "/precache-manifest.9c96d04c5b4fe25aa4ca695fc6fb7643.js",
+    "precache-manifest.e9b60ff665dab9ae120b1d203c4ec48c.js": "/precache-manifest.e9b60ff665dab9ae120b1d203c4ec48c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.053cef54.chunk.css.map": "/static/css/main.053cef54.chunk.css.map",
-    "static/js/2.9e5fa607.chunk.js.LICENSE.txt": "/static/js/2.9e5fa607.chunk.js.LICENSE.txt",
+    "static/js/2.5d1904c3.chunk.js.LICENSE.txt": "/static/js/2.5d1904c3.chunk.js.LICENSE.txt",
     "static/media/Equitas-Small-Finance-Bank-1.jpg": "/static/media/Equitas-Small-Finance-Bank-1.39750134.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ea81b9ac.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.9e5fa607.chunk.js",
+    "static/js/2.5d1904c3.chunk.js",
     "static/css/main.053cef54.chunk.css",
-    "static/js/main.ec83d6ab.chunk.js"
+    "static/js/main.675a1f18.chunk.js"
   ]
 }
