@@ -16,6 +16,7 @@ function Swot({info}) {
                   )
                 })
             }
+            <small>credits: SWOT analysis Asset yogi</small>
         </div>
     )
     else
