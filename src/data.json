@@ -1,4 +1,58 @@
-{   "Equitas bank":
+{   "Gland Pharma":
+    {
+        "name":"Gland Pharma Limited",
+        "image":"glandpharma.png",
+        "date":"Nov 9, 2020 - Nov 11, 2020",
+        "price":"₹1490 - ₹1500",
+        "description":"A holistic objective of dispensing health through a portfolio of injectable products across various therapeutic segments and delivery systems, has helped us expand to seven manufacturing facilities in India, with a capacity of approximately 750 million units. These include four facilities with 22 production lines for finished formulations and three Active Pharmaceutical Ingredient (API) facilities. Our products are produced at world-class manufacturing facilities and conform to global compliance, regulatory and quality specifications.",            
+        "details":{
+            "issue_type":"Book Built Issue IPO",
+            "face_value":"₹1",
+            "issue_size":"43,196,968 Eq Shares",
+            "market_lot":"10 Shares",
+            "min_order_qty":"10 Shares",
+            "listing":"BSE, NSE",
+            "minimum_amount":"₹15,000"
+        },
+        "SWOT":{
+            "Strengths":["Vertically integrated injectables manufacturing capability",
+                "Diversified B2B business",
+                "High Regulatory compliance",
+                "High Entry barries",
+                "growing finacials"
+            ],
+            "Weakness":["High concentration of revenue from US","Chinese Promoter"],
+            "Opporunity":["Favourable scope of growth","Leverage high entry barriers",
+                "Available of cost effective and skilled manpower in India"
+            ],
+            "Threat":["Covid 19","Depedencies on China for Raw Material"]
+        },
+        "timetable":{
+            "open_date":"Nov 9, 2020",
+            "close_date":"Nov 11, 2020",
+            "finalization_date":"Nov 17, 2020",
+            "refund_date":"Nov 18, 2020",
+            "credit_date":"Nov 19, 2020",
+            "listing_date":"Nov 20, 2020"
+        },
+        "promoters_holdings":{
+            "pre_issue":74,
+            "post_issue":58.36
+        },
+        "shares_offered_by_category":{
+            "QIB":50,
+            "NII":15,
+            "Retail":35
+        },
+        "financials":{
+            "PAT":{
+               "Mar-18":321.05,
+               "Mar-19":451.86,
+               "Mar-20":772.86 
+            }
+        }
+    },
+    "Equitas bank":
     {
         "name":"Equitas Small Finance bank",
         "image":"Equitas-Small-Finance-Bank-1.jpg",
@@ -13,6 +67,9 @@
             "min_order_qty":"450 Shares",
             "listing":"BSE, NSE",
             "minimum_amount":"₹14,850"
+        },
+        "SWOT":{
+
         },
         "timetable":{
             "open_date":"Oct 20, 2020",
@@ -57,6 +114,9 @@
                 "listing":"BSE, NSE",
                 "minimum_amount":"₹14,958"
             },
+            "SWOT":{
+
+            },
             "timetable":{
                 "open_date":"Sep 29,2020",
                 "close_date":"Oct 1,2020",
@@ -97,6 +157,9 @@
                 "min_order_qty":"103 Shares",
                 "listing":"BSE, NSE",
                 "minimum_amount":"₹14,935"
+            },
+            "SWOT":{
+                
             },
             "timetable":{
                 "open_date":"Sep 29,2020",

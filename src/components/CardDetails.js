@@ -5,6 +5,7 @@ import dataipo from "../data.json"
 import PageNotFound from './PageNotFound';
 import {Pie, Doughnut} from 'react-chartjs-2';
 import Financials from './Financials';
+import Swot from './Swot';
 function CardDetails() {
     var colorArray = ['#FF6633', '#FFB399', '#FF33FF', '#FFFF99', '#00B3E6', 
 		  '#E6B333', '#3366E6', '#999966', '#99FF99', '#B34D4D',
@@ -144,7 +145,10 @@ function CardDetails() {
                 </div>
                 <h5 className="p-2 mt-2"> Profit after Tax</h5>
                 <Financials info={dataipo[id].financials}/>
+
+                <Swot info={dataipo[id].SWOT}/>
             </div>
+            
     )
     
     
