@@ -1,4 +1,56 @@
-{   "Gland Pharma":
+{   
+    "Burger King":
+    {
+        "name":"Burger King",
+        "image":"burgerking.png",
+        "date":"Dec 2, 2020 - Dec 4, 2020",
+        "price":"₹59 - ₹60 ",
+        "description":"Burger King is an American multinational chain of hamburger fast food restaurants. Headquartered in Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida–based restaurant chain.",            
+        "details":{
+            "issue_type":"Book Built Issue IPO",
+            "face_value":"₹10 per equity share",
+            "issue_size":"135,000,000 Eq Shares",
+            "market_lot":"250 Shares",
+            "min_order_qty":"250 Shares",
+            "listing":"BSE, NSE",
+            "minimum_amount":"₹15,000"
+        },
+        "SWOT":{
+            "Strengths":["Good management team",
+                "Nicely built supply chain",
+                "Customer propsition"
+            ],
+            "Weakness":["Negative cashflows","Striong market competitors"],
+            "Opportunity":["Company to open new new restaurants target oof 750 restaurants till 2026"
+            ],
+            "Threat":["Industry of junk foods"]
+        },
+        "timetable":{
+            "open_date":"Dec 2, 2020",
+            "close_date":"Dec 4, 2020",
+            "finalization_date":"Dec 9, 2020",
+            "refund_date":"Dec 10, 2020",
+            "credit_date":"Dec 11, 2020",
+            "listing_date":"Dec 14, 2020"
+        },
+        "promoters_holdings":{
+            "pre_issue":99.39,
+            "post_issue":52.9
+        },
+        "shares_offered_by_category":{
+            "QIB":75,
+            "NII":15,
+            "Retail":10
+        },
+        "financials":{
+            "PAT":{
+               "Mar-18":82.2,
+               "Mar-19":38.2,
+               "Mar-20":765.7 
+            }
+        }
+    },
+    "Gland Pharma":
     {
         "name":"Gland Pharma Limited",
         "image":"glandpharma.png",
