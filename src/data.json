@@ -1,4 +1,56 @@
-{   
+{   "Mrs. Bectors Food":
+    {
+        "name":"Mrs. Bectors Food",
+        "image":"bector.png",
+        "date":"Dec 15, 2020 - Dec 17, 2020",
+        "price":"₹286 - ₹288 ",
+        "description":"Mrs. Rajni Bector started an enterprise in 1978, unveiling her love for baking by whipping up remarkable ice creams, breads and biscuits. Cremica began its journey on the foundation of quality, freshness and taste. The small enterprise in due course of time has become a huge conglomerate, where the standards of goodness have remained the same. Mrs. Bectors revenue 59% comes from Biscuits,and others from breads and beakeray products. Also this bread has been supplied to KFC,Burger king,McDonalds,etc like Quick service restaurants",            
+        "details":{
+            "issue_type":"Book Built Issue IPO",
+            "face_value":"₹10 per equity share",
+            "issue_size":"Eq Shares of ₹10,aggregating up to ₹540.54 Cr)",
+            "market_lot":"50 Shares",
+            "min_order_qty":"50 Shares",
+            "listing":"BSE, NSE",
+            "minimum_amount":"₹14,400"
+        },
+        "SWOT":{
+            "Strengths":["20% revenue from exports","Supplies to large QSR in country from long term"
+            ],
+            "Weakness":["profit is not increasing as expected","No agreements with QSR","Increasing Debts"],
+            "Opportunity":["Funds raised are going to used in New project in Punjab"
+            ],
+            "Threat":[
+                "No competitve advantage",
+                "Local bakeries are also competition",
+                "Existing private equity funds are exiting"
+            ]
+        },
+        "timetable":{
+            "open_date":"Dec 15, 2020",
+            "close_date":"Dec 17, 2020",
+            "finalization_date":"Dec 22, 2020",
+            "refund_date":"Dec 23, 2020",
+            "credit_date":"Dec 24, 2020",
+            "listing_date":"Dec 24, 2020"
+        },
+        "promoters_holdings":{
+            "pre_issue":52.45,
+            "post_issue":51
+        },
+        "shares_offered_by_category":{
+            "QIB":50,
+            "NII":15,
+            "Retail":35
+        },
+        "financials":{
+            "PAT":{
+               "Mar-18":35.89,
+               "Mar-19":33.15,
+               "Mar-20":30.40 
+            }
+        }
+    },
     "Burger King":
     {
         "name":"Burger King",
